@@ -1,0 +1,3 @@
+G:/Software/ClionProject/RmaxisSDK/cmake-build-debug/CMakeFiles/RmaxisSDK.dir
+G:/Software/ClionProject/RmaxisSDK/cmake-build-debug/CMakeFiles/edit_cache.dir
+G:/Software/ClionProject/RmaxisSDK/cmake-build-debug/CMakeFiles/rebuild_cache.dir
