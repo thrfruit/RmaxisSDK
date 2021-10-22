@@ -1,3 +1,6 @@
-G:/Software/ClionProject/RmaxisSDK/cmake-build-debug/CMakeFiles/RmaxisSDK.dir
-G:/Software/ClionProject/RmaxisSDK/cmake-build-debug/CMakeFiles/edit_cache.dir
-G:/Software/ClionProject/RmaxisSDK/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/zoukai/WorkingSpace/RmaxisSDK/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/zoukai/WorkingSpace/RmaxisSDK/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/zoukai/WorkingSpace/RmaxisSDK/cmake-build-debug/CMakeFiles/RmaxisSDK.dir
+/home/zoukai/WorkingSpace/RmaxisSDK/cmake-build-debug/libmodbus/CMakeFiles/rebuild_cache.dir
+/home/zoukai/WorkingSpace/RmaxisSDK/cmake-build-debug/libmodbus/CMakeFiles/edit_cache.dir
+/home/zoukai/WorkingSpace/RmaxisSDK/cmake-build-debug/libmodbus/CMakeFiles/modbus.dir
