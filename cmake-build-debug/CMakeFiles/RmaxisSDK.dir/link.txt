@@ -1,1 +1,3 @@
-/usr/bin/c++ -g CMakeFiles/RmaxisSDK.dir/Modbus.cpp.o CMakeFiles/RmaxisSDK.dir/RMAxis.cpp.o CMakeFiles/RmaxisSDK.dir/main.cpp.o -o RmaxisSDK  libmodbus/libmodbus.a 
+"C:\Program Files\JetBrains\CLion 2020.3.2\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\RmaxisSDK.dir/objects.a
+U:\mingw64\bin\ar.exe cr CMakeFiles\RmaxisSDK.dir/objects.a @CMakeFiles\RmaxisSDK.dir\objects1.rsp
+U:\mingw64\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\RmaxisSDK.dir/objects.a -Wl,--no-whole-archive  -o RmaxisSDK.exe -Wl,--out-implib,libRmaxisSDK.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\RmaxisSDK.dir\linklibs.rsp

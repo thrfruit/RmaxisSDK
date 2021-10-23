@@ -1,27 +1,19 @@
-
-# Consider dependencies only in project.
-set(CMAKE_DEPENDS_IN_PROJECT_ONLY OFF)
-
 # The set of languages for which implicit dependencies are needed:
 set(CMAKE_DEPENDS_LANGUAGES
   "C"
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_C
-  "/home/zoukai/WorkingSpace/RmaxisSDK/libmodbus/libmodbus-data.c" "/home/zoukai/WorkingSpace/RmaxisSDK/cmake-build-debug/libmodbus/CMakeFiles/modbus.dir/libmodbus-data.c.o"
-  "/home/zoukai/WorkingSpace/RmaxisSDK/libmodbus/libmodbus-rtu.c" "/home/zoukai/WorkingSpace/RmaxisSDK/cmake-build-debug/libmodbus/CMakeFiles/modbus.dir/libmodbus-rtu.c.o"
-  "/home/zoukai/WorkingSpace/RmaxisSDK/libmodbus/libmodbus-tcp.c" "/home/zoukai/WorkingSpace/RmaxisSDK/cmake-build-debug/libmodbus/CMakeFiles/modbus.dir/libmodbus-tcp.c.o"
-  "/home/zoukai/WorkingSpace/RmaxisSDK/libmodbus/libmodbus.c" "/home/zoukai/WorkingSpace/RmaxisSDK/cmake-build-debug/libmodbus/CMakeFiles/modbus.dir/libmodbus.c.o"
-  "/home/zoukai/WorkingSpace/RmaxisSDK/libmodbus/libmodbus_merged.c" "/home/zoukai/WorkingSpace/RmaxisSDK/cmake-build-debug/libmodbus/CMakeFiles/modbus.dir/libmodbus_merged.c.o"
+  "G:/Software/ClionProject/RmaxisSDK/libmodbus/libmodbus-data.c" "G:/Software/ClionProject/RmaxisSDK/cmake-build-debug/libmodbus/CMakeFiles/modbus.dir/libmodbus-data.c.obj"
+  "G:/Software/ClionProject/RmaxisSDK/libmodbus/libmodbus-rtu.c" "G:/Software/ClionProject/RmaxisSDK/cmake-build-debug/libmodbus/CMakeFiles/modbus.dir/libmodbus-rtu.c.obj"
+  "G:/Software/ClionProject/RmaxisSDK/libmodbus/libmodbus-tcp.c" "G:/Software/ClionProject/RmaxisSDK/cmake-build-debug/libmodbus/CMakeFiles/modbus.dir/libmodbus-tcp.c.obj"
+  "G:/Software/ClionProject/RmaxisSDK/libmodbus/libmodbus.c" "G:/Software/ClionProject/RmaxisSDK/cmake-build-debug/libmodbus/CMakeFiles/modbus.dir/libmodbus.c.obj"
+  "G:/Software/ClionProject/RmaxisSDK/libmodbus/libmodbus_merged.c" "G:/Software/ClionProject/RmaxisSDK/cmake-build-debug/libmodbus/CMakeFiles/modbus.dir/libmodbus_merged.c.obj"
   )
 set(CMAKE_C_COMPILER_ID "GNU")
 
 # The include file search paths:
 set(CMAKE_C_TARGET_INCLUDE_PATH
-  )
-
-# The set of dependency files which are needed:
-set(CMAKE_DEPENDS_DEPENDENCY_FILES
   )
 
 # Targets to which this target links.
